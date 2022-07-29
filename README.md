@@ -2,6 +2,7 @@
 - 👀 I’m interested in git
 - 🌱 I’m currently learning git
 
+tama on kokeilua
 
 <!---
 Hapi1601/Hapi1601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
